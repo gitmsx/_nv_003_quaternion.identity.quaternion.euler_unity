@@ -263,7 +263,7 @@ GameObject:
   - component: {fileID: 718887225}
   - component: {fileID: 718887224}
   m_Layer: 0
-  m_Name: Cube (1)
+  m_Name: CubeX
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -386,7 +386,7 @@ GameObject:
   - component: {fileID: 929377967}
   - component: {fileID: 929377966}
   m_Layer: 0
-  m_Name: Cube (2)
+  m_Name: CubeXY
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -592,7 +592,7 @@ GameObject:
   - component: {fileID: 1346323832}
   - component: {fileID: 1346323836}
   m_Layer: 0
-  m_Name: Cube
+  m_Name: CubeXYZ
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -685,6 +685,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 1346323830}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: e1745a57b84986149844ef5525cfb489, type: 3}
+  m_Script: {fileID: 11500000, guid: b74a2177987477e4fbfb557e28aeccfa, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
